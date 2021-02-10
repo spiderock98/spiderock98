@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Embedded Microcontroller
 - 🌱 I’m currently learning Backend NodeJS and some framework related
 - 👯 I’m looking to collaborate on these above fields
