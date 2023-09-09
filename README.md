@@ -1,5 +1,5 @@
 <!-- ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true&colorA=%23f53838&colorB=%2300cc69) -->
-<h1 align="center">Hello Friend 👋</h1>
+<h1 align="center">Hello Friends 👋</h1>
 
 <!-- - 🔭 I’m currently working on Embedded Microcontroller -->
 - 🌱 I’m currently learning everything 😜
